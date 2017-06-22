@@ -1,1 +1,1 @@
-#My asterisk config files
+# My asterisk config files
